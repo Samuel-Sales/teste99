@@ -1,0 +1,7 @@
+D:\Projetos VSCODE 2017\Course\Course\bin\Debug\Course.exe.config
+D:\Projetos VSCODE 2017\Course\Course\bin\Debug\Course.exe
+D:\Projetos VSCODE 2017\Course\Course\bin\Debug\Course.pdb
+D:\Projetos VSCODE 2017\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+D:\Projetos VSCODE 2017\Course\Course\obj\Debug\Course.exe
+D:\Projetos VSCODE 2017\Course\Course\obj\Debug\Course.pdb
+D:\Projetos VSCODE 2017\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
